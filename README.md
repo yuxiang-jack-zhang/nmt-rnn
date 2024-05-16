@@ -11,3 +11,5 @@ To test model:
 ```
 sh run.sh test
 ```
+
+**sanity check data missing**
